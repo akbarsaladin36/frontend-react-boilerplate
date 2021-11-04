@@ -16,7 +16,8 @@ This app is use for make frontend job easier. You just add more components and p
 ## Built With
 
 [![React](https://img.shields.io/badge/React-v17.0.2-blue)](https://github.com/facebook/react)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.6.x-blue)](https://github.com/react-bootstrap/react-bootstrap)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.1.3-blue)](https://github.com/react-bootstrap/react-bootstrap)
+[![Material UI](https://img.shields.io/badge/MaterialUI-v5.0.6-blue)](https://github.com/react-bootstrap/react-bootstrap)
 
 ## Requirements
 
